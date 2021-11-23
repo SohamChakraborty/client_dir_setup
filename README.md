@@ -6,3 +6,5 @@ $ cookiecutter client_dir_structure
 ```
 
 Enter inputs and Voila!
+
+See https://github.com/topics/cookiecutter-template for inspiration.
